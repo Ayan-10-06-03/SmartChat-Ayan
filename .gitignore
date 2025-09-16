@@ -36,5 +36,3 @@ build
 .env.test.local
 .env.production.local
 
-# Assets (optional if you don’t want to push)
-client/src/assets/
